@@ -1,0 +1,121 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.one{
+    float: left;
+    padding-left: 104px;
+    padding-top: 10px;
+}
+
+.on{
+    float: left;
+    padding-top: 30px;
+    margin-left: -15px;
+    color: #253B75;
+}
+
+.two{
+    float:right;
+    padding-top: 50px;
+    margin-right: 80px;
+    
+}
+
+.three{
+    float: left;
+    margin-top: 160px;
+    margin-left: -210px;
+}
+
+
+h2{
+    color: #4E97A9;
+    padding-top: 162px;
+    margin-left: 148px;
+}
+
+.four{
+    color: #253B75;
+    padding-left: 120px;
+    padding-top: 35px;
+
+}
+
+.five{
+    color: #253B75;
+    padding-left: 140px;
+}
+
+
+#six{
+    color: #B1B1B1;
+    margin-left: 130px;
+    margin-top: 90px;  
+    border: none;
+    border-bottom: 1px solid #B1B1B1;
+    font-weight: bold;
+    padding-left: 10px;
+    outline: none;
+}
+
+#seven{
+    color: #B1B1B1;
+    margin-left: 40px;
+    margin-top: 90px;  
+    border: none;
+    border-bottom: 1px solid #B1B1B1;
+    padding-left: 60px;
+    font-weight: bold;
+    width: 17%;
+    outline: none;
+}
+
+#eight{
+    color: #B1B1B1;
+    margin-left: 130px;
+    margin-top: 80px;  
+    border: none;
+    border-bottom: 1px solid #B1B1B1;
+    font-weight: bold;
+    padding-left: 10px;
+    width: 34%;
+    outline: none;   
+}
+
+
+ #tt{
+    margin-left: 130px;
+    width: 480px;
+    height: 30px;
+    font-size: 18px;
+    color: #1D4DC8;
+    border: none;
+
+ }
+
+
+p{
+   margin-left: 130px;
+   font-size: 18px;
+}
+
+.noo{
+   
+   position: flex;
+   margin-left: 670px ;
+   margin-top: -450px;
+   margin-bottom: 120px;
+}
+
+.yess{
+    
+    position: absolute;
+    margin-left: -400px;
+    margin-top: -615px;   
+}
